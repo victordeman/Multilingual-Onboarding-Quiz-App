@@ -95,8 +95,3 @@ This project demonstrates:
 - Ability to build accessible, multilingual applications.
 - Integration of REST APIs and alternative UIs (Streamlit).
 - Focus on user-centric design for frontline workers.
-
-For pricing or subscription details, visit:
-- [SuperGrok](https://x.ai/grok)
-- [X Premium](https://help.x.com/en/using-x/x-premium)
-- [xAI API](https://x.ai/api)
